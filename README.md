@@ -1,1 +1,1 @@
-# kodilla-8.2
+# Imienne przywitanie użytkownika
